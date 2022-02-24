@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachnology
-- 📫 zack@zachnology.io
+- 📫 me@zachnology.io
 
 <!---
 zachnology/zachnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
